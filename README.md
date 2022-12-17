@@ -1,7 +1,9 @@
 # Special Design
 Pure HTML and CSS and JavaScript.
 Took the idea of this template from Elzero Web School YouTube Channel and he said anyone can take the template as a mockup and make it his way and that's what I did.
+
 Link this project on Github: https://imismailalrewany.github.io/specialDesign_html_css_js.github.io/
+
 Link Elzero: https://www.youtube.com/watch?v=vedT2jk3hi4&list=PLDoPjvoNmBAzvmpzF-6l3tAviiCPbwkB8
 
 ## Libraries
