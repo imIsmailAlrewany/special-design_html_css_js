@@ -74,7 +74,7 @@ const switcher = function () {
     randomize = setInterval(() => {
         const imgs = ['01.jpg', '02.jpg', '03.jpg', '04.jpg', '05.jpg'];
         let randomNum = Math.floor(Math.random() * imgs.length);
-        landingPage.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(\'../images/${imgs[randomNum]}\')`;
+        landingPage.style.backgroundImage = `linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(images/${imgs[randomNum]})`;
     }, 10000);   
 };
 
